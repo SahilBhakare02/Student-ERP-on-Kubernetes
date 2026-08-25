@@ -233,7 +233,7 @@ cd EasyCRUD-Updated/backend
 Edit the Backend configuration file:
 
 ```bash
-nano src/main/resources/application.resources
+nano src/main/resources/application.properties
 ```
 
 Paste the:
